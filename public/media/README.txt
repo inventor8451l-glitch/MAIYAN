@@ -1,0 +1,1 @@
+The original cinematic video assets were not committed because the GitHub connector does not support binary file upload. The current site uses a responsive photographic hero and works without local video files. Add approved MAIYAN video files here later if desired.
